@@ -13,6 +13,8 @@ gem 'bootstrap', '~> 4.1.1'
 #Bootstrap 4
 gem "twitter-bootstrap-rails"
 #Twitter Bootstrap
+gem "font-awesome-rails"
+#Font Awesome
 gem 'pg'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
