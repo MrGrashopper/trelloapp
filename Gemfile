@@ -15,6 +15,8 @@ gem "twitter-bootstrap-rails"
 #Twitter Bootstrap
 gem "font-awesome-rails"
 #Font Awesome
+gem 'simple_form'
+#Simple Form
 gem 'pg'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
